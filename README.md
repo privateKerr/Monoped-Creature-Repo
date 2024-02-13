@@ -6,3 +6,6 @@ there is a dorsal fin. I wanted it to "feel" aquatic in the design, and I feel l
 During the retopo phase, I'd say the biggest challenge I ran into was getting good edge flow around areas like the eyes and the nose. I feel good about the point I was able to get to 
 with the topology, although I know it isn't perfect. I think at this point, before bringing it back into Zbrush, I kept the form pretty well and the expressiveness around the eyes of 
 the creature. Overall, pretty happy with the progress so far.
+
+At this point, bringing the model back and forth from Zbrush and Maya went really well! I was able to keep the details I wanted and fix some areas that needed some work. I feel like the
+look of the creature is what I envisioned it to be, and it was a great learning process to use Zbrush and work with the model itself in maya.
