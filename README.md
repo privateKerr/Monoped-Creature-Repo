@@ -9,3 +9,8 @@ the creature. Overall, pretty happy with the progress so far.
 
 At this point, bringing the model back and forth from Zbrush and Maya went really well! I was able to keep the details I wanted and fix some areas that needed some work. I feel like the
 look of the creature is what I envisioned it to be, and it was a great learning process to use Zbrush and work with the model itself in maya.
+
+Having all the UVs and textures done, it's clear to see the areas in which I feel like I succeeded and the areas I struggled in. I feel like the overall personality and character of my monoped
+was maintained, and I'm happy with how the overall look turned out. I wanted to be able to produce some sort of translucent back fin, but couldn't get it to a place that I felt great about. UV
+mapping the model was a simple process, but making sure that the overall topology of the mesh was good was a bit more of a challenge. Overall, happy with how it turned out and definitely have some
+notes on areas of improvement for future projects.
